@@ -572,6 +572,7 @@ footer .copyright {
         left: 30px;
         color: #222;
         font-size: 20px;
+        text-decoration: none;
     }
 
     #lg-bag {
@@ -581,7 +582,7 @@ footer .copyright {
     #hero {
         height: 70vh;
         padding: 0 80px;
-        background-position: top 30% right 30%;
+        background-position: top 30% right 52%;
     }
 
     #feature {
